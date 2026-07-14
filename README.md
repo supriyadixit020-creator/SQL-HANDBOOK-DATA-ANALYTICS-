@@ -1,5 +1,5 @@
 <div align="center">
-
+ 
 # 📘 SQL Handbook for Data Analytics
 
 ### *From `SELECT *` to Salary Interviews — One Notebook at a Time*
