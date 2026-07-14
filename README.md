@@ -1,5 +1,5 @@
 <div align="center">
- 
+
 # 📘 SQL Handbook for Data Analytics
 
 ### *From `SELECT *` to Salary Interviews — One Notebook at a Time*
@@ -135,6 +135,12 @@ This handbook covers the full syllabus most SQL interviews draw from — fundame
 
 **Can I contribute or suggest a chapter?**
 Yes! Open an issue or PR — chapters like Index Optimization, Stored Procedures, or `PIVOT`/`ROLLUP` are great candidates for a v2.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](./LICENSE) — free to use, share, and adapt for your own learning, with attribution appreciated.
 
 ---
 
